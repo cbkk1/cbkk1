@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chinmaya Bhat K K</h1>
-<h3 align="center">A passionate Algorithmic Engineer from India</h3>
+<h3 align="center">Algorithmic Engineer | Parallel Computing Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbkk1&label=Profile%20views&color=0e75b6&style=flat" alt="cbkk1" /> </p>
 
